@@ -21,7 +21,7 @@ This course covers the following competencies, which represent the knowledge and
 
 ## Featured Project: Cartpole Revisited
 
-[Visit the project here →](github.com/aricmoore/CS-370-Current-Emerging-Trends-in-CS/blob/main/Jupyter/Moore_Arielle_Assignment6.ipynb)
+[Visit the project here →](https://github.com/aricmoore/CS-370-Current-Emerging-Trends-in-CS/blob/main/Jupyter/Moore_Arielle_Assignment6.ipynb)
 
 ## Featured Project: Pirate Intellident Agent
 
