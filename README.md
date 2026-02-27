@@ -15,7 +15,7 @@ This course covers the following competencies, which represent the knowledge and
 - CS-30425: Analyze how algorithms are used in artificial intelligence to solve a variety of complex problems
 - CS-30426: Analyze current trends and emerging technologies in Computer Science for their impacts on society 
 
-## Featured Project: Pirate Intellident Agent
+## Featured Project: Pirate Intelligent Agent
 
 In this project, I implemented a reinforcement learning agent that learns to navigate a maze environment to reach a treasure while avoiding penalties. The goal was to apply key concepts from reinforcement learning and neural networks to train an intelligent agent capable of autonomous decision-making.
 
