@@ -27,6 +27,10 @@ This course covers the following competencies, which represent the knowledge and
 
 [Visit the project here →](https://github.com/aricmoore/CS-370-Current-Emerging-Trends-in-CS/tree/main/Jupyter/pirate-intelligent-agent)
 
+## Academic Written Assignments
+
+[Visit the assignments here →](https://github.com/aricmoore/CS-370-Current-Emerging-Trends-in-CS/tree/main/Written%20Assignments)
+
 - ---
 
 <sub>© 2026 Arielle Moore. All rights reserved. | CS 370: Current and Emerging Trends in Computer Science | View my [portfolio](https://aricmoore.github.io/) for more projects.</sub>
